@@ -1,0 +1,12 @@
+Classification Report - ConvNeXt
+============================================================
+              precision    recall  f1-score   support
+
+      glioma     0.7977    0.5227    0.6316       264
+  meningioma     0.6737    0.7300    0.7007       263
+    no_tumor     0.9277    0.8750    0.9006       264
+   pituitary     0.6897    0.9091    0.7843       264
+
+    accuracy                         0.7592      1055
+   macro avg     0.7722    0.7592    0.7543      1055
+weighted avg     0.7723    0.7592    0.7544      1055

@@ -1,0 +1,12 @@
+Classification Report - Swin
+============================================================
+              precision    recall  f1-score   support
+
+      glioma     0.5614    0.6061    0.5829       264
+  meningioma     0.5265    0.5285    0.5275       263
+    no_tumor     0.7950    0.7197    0.7555       264
+   pituitary     0.5768    0.5833    0.5800       264
+
+    accuracy                         0.6095      1055
+   macro avg     0.6149    0.6094    0.6115      1055
+weighted avg     0.6150    0.6095    0.6116      1055

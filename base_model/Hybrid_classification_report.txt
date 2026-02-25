@@ -1,0 +1,12 @@
+Classification Report - Hybrid
+============================================================
+              precision    recall  f1-score   support
+
+      glioma     0.9154    0.9015    0.9084       264
+  meningioma     0.9157    0.8669    0.8906       263
+    no_tumor     0.9700    0.9811    0.9755       264
+   pituitary     0.9355    0.9886    0.9613       264
+
+    accuracy                         0.9346      1055
+   macro avg     0.9341    0.9345    0.9340      1055
+weighted avg     0.9342    0.9346    0.9340      1055

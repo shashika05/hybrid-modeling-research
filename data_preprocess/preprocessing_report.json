@@ -1,0 +1,28 @@
+{
+    "original_distribution": {
+        "0": 3687,
+        "1": 3709,
+        "2": 2030,
+        "3": 1757
+    },
+    "balanced_distribution": {
+        "0": 1757,
+        "1": 1757,
+        "2": 1757,
+        "3": 1757
+    },
+    "normalization_stats": {
+        "mean": 0.12740811705589294,
+        "std": 0.17815178632736206
+    },
+    "train_val_test_split": {
+        "train": 4918,
+        "val": 1055,
+        "test": 1055
+    },
+    "target_size": [
+        224,
+        224
+    ],
+    "total_processed": 7028
+}
